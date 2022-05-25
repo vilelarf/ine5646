@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(211, 220, 237);
+}
+
+main{
+    width: 99vw;
+    display: flex;
+    justify-content:space-between;
+}
+
+#principal{
+    width: 69vw;
+    height: 60vh;
+    background-color: brown;
+}
+
+#login{
+    width: 29vw;
+    height: 60vh;
+    background-color: blue;
+}
+
+footer{
+    margin-top: 5px;
+    width: 99vw;
+    height: 10vh;
+    background-color: cadetblue;
+}
